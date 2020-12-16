@@ -33,6 +33,7 @@ namespace PrimeNumbers
                 }
                 isPrime = true;
             }
+            Console.WriteLine("\nAyushee was here. *evil laugh*");
             Console.ReadKey();
         }
     }

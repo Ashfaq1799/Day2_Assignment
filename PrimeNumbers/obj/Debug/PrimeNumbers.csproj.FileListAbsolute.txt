@@ -5,3 +5,10 @@ D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2_assignment\PrimeN
 D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2_assignment\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.CoreCompileInputs.cache
 D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2_assignment\PrimeNumbers\obj\Debug\PrimeNumbers.exe
 D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2_assignment\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
+W:\Specialization\Day2_Question\Day2_Assignment\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+W:\Specialization\Day2_Question\Day2_Assignment\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+W:\Specialization\Day2_Question\Day2_Assignment\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+W:\Specialization\Day2_Question\Day2_Assignment\PrimeNumbers\obj\Debug\PrimeNumbers.csprojAssemblyReference.cache
+W:\Specialization\Day2_Question\Day2_Assignment\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.CoreCompileInputs.cache
+W:\Specialization\Day2_Question\Day2_Assignment\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+W:\Specialization\Day2_Question\Day2_Assignment\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
