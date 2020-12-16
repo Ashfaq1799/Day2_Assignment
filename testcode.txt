@@ -1,0 +1,7 @@
+Enter the start value:
+1
+Enter the stop value:
+10
+Prime Numbers are :
+        1       2       3       5       7
+Ayushee was here. *evil laugh*
