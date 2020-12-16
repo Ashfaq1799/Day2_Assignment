@@ -1,0 +1,7 @@
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2_assignment\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2_assignment\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2_assignment\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2_assignment\PrimeNumbers\obj\Debug\PrimeNumbers.csprojAssemblyReference.cache
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2_assignment\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.CoreCompileInputs.cache
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2_assignment\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2_assignment\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
